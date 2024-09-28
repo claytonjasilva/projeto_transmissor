@@ -38,6 +38,7 @@ O projeto está organizado nos seguintes módulos:
 
 O projeto segue a seguinte estrutura de diretórios:
 
+```
 /transmissor_projeto
 │
 ├── /audio
@@ -74,7 +75,7 @@ O projeto segue a seguinte estrutura de diretórios:
 │   └── *.h                       # Arquivos de cabeçalho (.h) usados pelos módulos
 │
 └── Makefile                      # Makefile para automatizar a compilação e execução dos módulos
-
+```
 
 ## Como Compilar
 
